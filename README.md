@@ -14,5 +14,5 @@ the main questions they’d like to answer:
 ● Where are customers with a high lifetime value based?
 ● Do sales figures vary between geographic regions?
 
-# Tools and Data Source 
+# Tools and Data  
 This data was analyzed using Postgre SQL. The dataset include infromation about ROckbuster's Film inventory, customer, payment, stores, staff, films, actors, rental history and addresses
