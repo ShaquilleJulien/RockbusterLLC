@@ -16,3 +16,6 @@ the main questions they’d like to answer:
 
 # Tools and Data  
 This data was analyzed using Postgre SQL. The dataset include infromation about ROckbuster's Film inventory, customer, payment, stores, staff, films, actors, rental history and addresses
+
+# Tableau link
+https://public.tableau.com/app/profile/shaquille.obomeghie/viz/RockbusterStealthLLC_17151522670130/Top10Movies?publish=yes 
