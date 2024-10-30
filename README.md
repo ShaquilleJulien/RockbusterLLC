@@ -20,7 +20,7 @@ the main questions they’d like to answer:
 ● Do sales figures vary between geographic regions?
 
 # Tools and Data  
-This data was analyzed using Postgre SQL. The dataset include infromation about ROckbuster's Film inventory, customer, payment, stores, staff, films, actors, rental history and addresses
+This data was analyzed using Postgre SQL. The dataset includes information about ROckbuster's Film inventory, customers, payment, stores, staff, films, actors, rental history and addresses
 
 # Tableau link
 [Rockbuster Tableau Link](https://public.tableau.com/app/profile/shaquille.obomeghie/viz/RockbusterStealthLLC_17151522670130/Top10Movies?publish=yes)
